@@ -1,1 +1,1 @@
-This is my first Learning-Project, only for learning purposes
+first Github Project
